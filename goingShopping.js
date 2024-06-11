@@ -17,7 +17,7 @@ shoppingCart.sort();
 shoppingCart.reverse();
 
 
-console.log (shoppingList);
+// console.log (shoppingList); // Using this just to check stuff.
 console.log (shoppingCart.join (', '));
 
 // My first attempt got same result skipping steps 6-8 in the second part. I got the info there but did not dump the first array?. 
