@@ -28,7 +28,7 @@ function playRound(player1, player2) {
   }
 
   if (
-    (hand1 === 'rock' && hand2 === 'cissors') ||
+    (hand1 === 'rock' && hand2 === 'scissors') ||
     (hand1 === 'cissors' && hand2 === 'paper') ||
     (hand1 === 'paper' && hand2 === 'rock')
   ) {
